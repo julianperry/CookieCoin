@@ -1,0 +1,2 @@
+# CookieCoin
+CookieCoin Cryptocurrency
